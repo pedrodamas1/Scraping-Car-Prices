@@ -46,7 +46,7 @@ To get started with the project (yet to be implemented):
    pip install -r requirements.txt
    ```
 
-3. Run the Jupyter notebook `used_car_price_prediction.ipynb` to explore the project in detail.
+3. Run the Jupyter notebook `analysis.ipynb` to explore the project in detail.
 
 ## Additional Resources
 
