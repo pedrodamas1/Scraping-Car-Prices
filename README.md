@@ -37,7 +37,7 @@ To get started with the project (yet to be implemented):
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your_username/used-car-price-prediction.git
+   git clone https://github.com/pedrodamas1/Scraping-Car-Prices
    ```
 
 2. Install the required dependencies:
